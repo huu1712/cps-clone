@@ -25,7 +25,7 @@
     <div class="product--slider">
       <ul class="product--slider__list">
         <li class="product--image">
-          <img src="~/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
+          <img src="https://raw.githubusercontent.com/huu1712/page-cps/main/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
         </li>
         <li class="product--name">
           <h3>Samsung Galaxy Note 20 Ultra 5G</h3>
@@ -84,7 +84,7 @@
       </ul>
       <ul class="product--slider__list">
         <li class="product--image">
-          <img src="~/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
+          <img src="https://raw.githubusercontent.com/huu1712/page-cps/main/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
         </li>
         <li class="product--name">
           <h3>Samsung Galaxy Note 20 Ultra 5G</h3>
@@ -143,7 +143,7 @@
       </ul>
       <ul class="product--slider__list">
         <li class="product--image">
-          <img src="~/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
+          <img src="https://raw.githubusercontent.com/huu1712/page-cps/main/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
         </li>
         <li class="product--name">
           <h3>Samsung Galaxy Note 20 Ultra 5G</h3>
@@ -202,7 +202,7 @@
       </ul>
       <ul class="product--slider__list">
         <li class="product--image">
-          <img src="~/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
+          <img src="https://raw.githubusercontent.com/huu1712/page-cps/main/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
         </li>
         <li class="product--name">
           <h3>Samsung Galaxy Note 20 Ultra 5G</h3>
@@ -261,7 +261,7 @@
       </ul>
       <ul class="product--slider__list">
         <li class="product--image">
-          <img src="~/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
+          <img src="https://raw.githubusercontent.com/huu1712/page-cps/main/assets/image/4ba7f6bd581a9844c10b.jpg" alt="">
         </li>
         <li class="product--name">
           <h3>Samsung Galaxy Note 20 Ultra 5G</h3>
@@ -344,7 +344,7 @@
       <div class="product--slider">
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/738b71884a2b8a75d33a.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/738b71884a2b8a75d33a.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W</h3>
@@ -403,7 +403,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/738b71884a2b8a75d33a.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/738b71884a2b8a75d33a.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W</h3>
@@ -462,7 +462,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/738b71884a2b8a75d33a.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/738b71884a2b8a75d33a.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W</h3>
@@ -521,7 +521,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/738b71884a2b8a75d33a.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/738b71884a2b8a75d33a.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W</h3>
@@ -580,7 +580,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/738b71884a2b8a75d33a.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/738b71884a2b8a75d33a.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W</h3>
@@ -661,7 +661,7 @@
       <div class="product--slider">
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/9b8887e0a443641d3d52.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/9b8887e0a443641d3d52.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>iPad Air 10.9 2020 WiFi 64GB I Chính hãng Apple Việt Nam </h3>
@@ -720,7 +720,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/9b8887e0a443641d3d52.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/9b8887e0a443641d3d52.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>iPad Air 10.9 2020 WiFi 64GB I Chính hãng Apple Việt Nam </h3>
@@ -779,7 +779,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/9b8887e0a443641d3d52.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/9b8887e0a443641d3d52.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>iPad Air 10.9 2020 WiFi 64GB I Chính hãng Apple Việt Nam </h3>
@@ -838,7 +838,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/9b8887e0a443641d3d52.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/9b8887e0a443641d3d52.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>iPad Air 10.9 2020 WiFi 64GB I Chính hãng Apple Việt Nam </h3>
@@ -897,7 +897,7 @@
         </ul>
         <ul class="product--slider__list">
           <li class="product--image">
-            <img src="~/assets/image/9b8887e0a443641d3d52.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/9b8887e0a443641d3d52.jpg?raw=true" alt="">
           </li>
           <li class="product--name">
             <h3>iPad Air 10.9 2020 WiFi 64GB I Chính hãng Apple Việt Nam </h3>

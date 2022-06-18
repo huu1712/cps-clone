@@ -14,11 +14,11 @@
               <h4>Phương thức thanh toán</h4>
             </div>
             <ul class="footer--col-1__list link">
-              <li><img src="~/assets/image/alepay-logo.jpg" alt=""></li>
-              <li><img src="~/assets/image/alepay-logo.jpg" alt=""></li>
-              <li><img src="~/assets/image/alepay-logo.jpg" alt=""></li>
-              <li><img src="~/assets/image/alepay-logo.jpg" alt=""></li>
-              <li><img src="~/assets/image/alepay-logo.jpg" alt=""></li>
+              <li><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/alepay-logo.jpg?raw=true" alt=""></li>
+              <li><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/alepay-logo.jpg?raw=true" alt=""></li>
+              <li><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/alepay-logo.jpg?raw=true" alt=""></li>
+              <li><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/alepay-logo.jpg?raw=true" alt=""></li>
+              <li><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/alepay-logo.jpg?raw=true" alt=""></li>
             </ul>
           </div>
           <div class="footer--top__col-1">

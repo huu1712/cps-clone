@@ -129,22 +129,22 @@
           <div class="swiper mySwiper2">
             <div class="main-banner__slidding swiper-wrapper">
               <div class="main-banner__slidding-item swiper-slide">
-                <img src="~/assets/image/banner1.jpg" alt="" />
+                <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/banner1.jpg?raw=true" alt="" />
               </div>
               <div class="main-banner__slidding-item swiper-slide">
-                <img src="~/assets/image/banner2.jpg" alt="" />
+                <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/banner2.jpg?raw=true" alt="" />
               </div>
               <div class="main-banner__slidding-item swiper-slide">
-                <img src="~/assets/image/banner3.jpg" alt="" />
+                <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/banner3.jpg?raw=true" alt="" />
               </div>
               <div class="main-banner__slidding-item swiper-slide">
-                <img src="~/assets/image/banner4.jpg" alt="" />
+                <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/banner4.jpg?raw=true" alt="" />
               </div>
               <div class="main-banner__slidding-item swiper-slide">
-                <img src="~/assets/image/banner5.jpg" alt="" />
+                <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/banner5.jpg?raw=true" alt="" />
               </div>
               <div class="main-banner__slidding-item swiper-slide">
-                <img src="~/assets/image/banner6.jpg" alt="" />
+                <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/banner6.jpg?raw=true" alt="" />
               </div>
             </div>
             <div class="swiper-button-next"></div>
@@ -176,35 +176,24 @@
       <div class="image--banner">
         <div>
           <a href="" class="right--banner">
-            <img src="~/assets/image/RB_galaxy-A73.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/RB_galaxy-A73.jpg?raw=true" alt="">
           </a>
           <a href="" class="right--banner">
-            <img src="~/assets/image/2cd6effe925952070b48.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/2cd6effe925952070b48.jpg?raw=true" alt="">
           </a>
           <a href="" class="right--banner">
-            <img src="~/assets/image/5432f3948c334c6d1522.jpg" alt="">
+            <img src="https://github.com/huu1712/page-cps/blob/main/assets/image/5432f3948c334c6d1522.jpg?raw=true" alt="">
           </a>
         </div>
       </div>
     </div>
     <div class="horizontal--banner">
-      <img src="~/assets/image/0677df74b2d3728d2bc2.jpg" alt="">
+      <img src="https://raw.githubusercontent.com/huu1712/page-cps/main/assets/image/0677df74b2d3728d2bc2.jpg" alt="">
     </div>
   </div>
 </template>
 
 <script>
-import backgroundUrl from '~/assets/image/icon-cps-3.svg'
-import backgroundUrl1 from '~/assets/image/icon-cps-380.svg'
-import backgroundUrl2 from '~/assets/image/icon-cps-4.svg'
-import backgroundUrl3 from '~/assets/image/icon-cps-220.svg'
-import backgroundUrl4 from '~/assets/image/icon-cps-610.svg'
-import backgroundUrl5 from '~/assets/image/icon-cps-1124.svg'
-import backgroundUrl6 from '~/assets/image/icon-cps-30.svg'
-import backgroundUrl7 from '~/assets/image/icon_cpu.svg'
-import backgroundUrl8 from '~/assets/image/icon-cps-tcdm.svg'
-import backgroundUrl9 from '~/assets/image/icon-cps-29.svg'
-import backgroundUrl10 from '~/assets/image/icon-cps-promotion.svg'
 import {sliderr} from '~/assets/index'
 
 
@@ -212,17 +201,17 @@ import {sliderr} from '~/assets/index'
 export default {
   data() {
     return {
-      backgroundUrl,
-      backgroundUrl1,
-      backgroundUrl2,
-      backgroundUrl3,
-      backgroundUrl4,
-      backgroundUrl5,
-      backgroundUrl6,
-      backgroundUrl7,
-      backgroundUrl8,
-      backgroundUrl9,
-      backgroundUrl10,
+       backgroundUrl : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-3.svg',
+       backgroundUrl1 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-380.svg',
+       backgroundUrl2 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-4.svg',
+       backgroundUrl3 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-220.svg',
+       backgroundUrl4 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-610.svg',
+       backgroundUrl5 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-1124.svg',
+       backgroundUrl6 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-30.svg',
+       backgroundUrl7 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon_cpu.svg',
+       backgroundUrl8 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-tcdm.svg',
+       backgroundUrl9 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-29.svg',
+       backgroundUrl10 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/icon-cps-promotion.svg',
     }
   },
   name: "Banner",

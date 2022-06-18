@@ -222,10 +222,10 @@
         </div>
       </div>
       <div class="brand--banner">
-        <a href=""><img src="~/assets/image/brand1.jpg" alt=""></a>
-        <a href=""><img src="~/assets/image/brand2.jpg" alt=""></a>
-        <a href=""><img src="~/assets/image/brand3.jpg" alt=""></a>
-        <a href=""><img src="~/assets/image/brand4.jpg" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand1.jpg?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand2.jpg?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand3.jpg?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand4.jpg?raw=true" alt=""></a>
       </div>
     </div>
 
@@ -238,10 +238,10 @@
         </div>
       </div>
       <div class="brand--banner">
-        <a href=""><img src="~/assets/image/brand5.jpg" alt=""></a>
-        <a href=""><img src="~/assets/image/brand6.jpg" alt=""></a>
-        <a href=""><img src="~/assets/image/brand7.jpg" alt=""></a>
-        <a href=""><img src="~/assets/image/brand8.jpg" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand5.jpg?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand6.jpg?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand7.jpg?raw=true" alt=""></a>
+        <a href=""><img src="https://github.com/huu1712/page-cps/blob/main/assets/image/brand8.jpg?raw=true" alt=""></a>
       </div>
     </div>
 
@@ -252,33 +252,20 @@
 
 <script>
 
-import backgroundimg from '~/assets/image/cate-1644.svg'
-import backgroundimg1 from '~/assets/image/cate-43.svg'
-import backgroundimg2 from '~/assets/image/cate-286.svg'
-import backgroundimg3 from '~/assets/image/cate-108.svg'
-import backgroundimg4 from '~/assets/image/cate-114.svg'
-import backgroundimg5 from '~/assets/image/cate-122.svg'
-import backgroundimg6 from '~/assets/image/cate-676.svg'
-import backgroundimg7 from '~/assets/image/cate-363.svg'
-import backgroundimg8 from '~/assets/image/cate-663.svg'
-import backgroundimg9 from '~/assets/image/cate-109.svg'
-import backgroundimg10 from '~/assets/image/cate-966.svg'
-
-
 
 export default {  data() {
     return {
-      backgroundimg,
-      backgroundimg1,
-      backgroundimg2,
-      backgroundimg3,
-      backgroundimg4,
-      backgroundimg5,
-      backgroundimg6,
-      backgroundimg7,
-      backgroundimg8,
-      backgroundimg9,
-      backgroundimg10
+       backgroundimg : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-1644.svg',
+       backgroundimg1 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-43.svg',
+       backgroundimg2 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-286.svg',
+       backgroundimg3 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-108.svg',
+       backgroundimg4 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-114.svg',
+       backgroundimg5 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-122.svg',
+       backgroundimg6 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-676.svg',
+       backgroundimg7 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-363.svg',
+       backgroundimg8 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-663.svg',
+       backgroundimg9 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-109.svg',
+       backgroundimg10 : 'https://raw.githubusercontent.com/huu1712/page-cps/6b918957d84a988e4dc4b64566dd48c595c4b94e/assets/image/cate-966.svg',
     }
   },
   name: "Accessory"
