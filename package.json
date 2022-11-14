@@ -16,7 +16,7 @@
     "@blokwise/dynamic": "^1.5.0",
     "@nuxt/http": "^0.6.4",
     "@nuxtjs/axios": "^5.13.6",
-    "@nuxtjs/device": "^2.1.0",
+    "@nuxtjs/device": "^3.0.0",
     "@nuxtjs/toast": "^3.3.1",
     "bulma": "^0.9.3",
     "cache-manager-redis": "^0.6.0",
