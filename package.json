@@ -22,7 +22,7 @@
     "cache-manager-redis": "^0.6.0",
     "cookie-universal-nuxt": "^2.1.5",
     "core-js": "^3.19.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.3.1",
     "nuxt-render-on-scroll": "^1.1.0",
     "nuxt-ssr-cache": "^1.5.2",
     "swiper": "5.4.5",
